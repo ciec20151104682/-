@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		F299DB9A1DB4F023005834F8 /* 关歆 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "关歆"; sourceTree = BUILT_PRODUCTS_DIR; };
-		F299DB9D1DB4F023005834F8 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		F299DB9D1DB4F023005834F8 /* main.cpp */ = {isa = PBXFileReference; indentWidth = 10; lastKnownFileType = sourcecode.cpp.cpp; lineEnding = 0; path = main.cpp; sourceTree = "<group>"; tabWidth = 10; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
